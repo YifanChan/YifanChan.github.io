@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YifanChan.github.io</id>
     <title>早安Café</title>
-    <updated>2020-03-31T14:29:54.829Z</updated>
+    <updated>2020-03-31T23:51:39.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YifanChan.github.io"/>
     <link rel="self" href="https://YifanChan.github.io/atom.xml"/>
-    <subtitle>Morning 🍳</subtitle>
+    <subtitle>Good Morning</subtitle>
     <logo>https://YifanChan.github.io/images/avatar.png</logo>
     <icon>https://YifanChan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 早安Café</rights>
+    <entry>
+        <title type="html"><![CDATA[神奇的快乐]]></title>
+        <id>https://YifanChan.github.io/post/shen-qi-de-kuai-le/</id>
+        <link href="https://YifanChan.github.io/post/shen-qi-de-kuai-le/">
+        </link>
+        <updated>2020-03-31T23:15:35.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，早上好🥛</p>
+<p>这里是<strong>早安Café</strong>线上营业的第二天，现在是⏲北京时间上午7：15⛅️</p>
+<p>昨天和高中闺蜜们去了我们最喜爱的那家日料店，我们已经很久没有聚了，脱了鞋坐在榻榻米上，抿一小口特意带去的梅酒，看着寿喜锅里褐色的汤汁冒着泡泡，窗外是雨夜里潮湿静谧的日式庭院。话题不知道什么时候转移到了初中的女体育老师身上，大笑着的声音直直要盖过隔壁中年老大叔故作正经的腔调。</p>
+<p>想来我们仨居然念的也是同一个初中。</p>
+<p>不管是孩子还是个接近成熟的大人，体验快乐，一直是件很好的事情。但是快乐也有很多种，像这样快乐的感觉仿佛沸腾的寿喜锅一般从心底咕嘟嘟地往上涌，混合着梅子香气久久萦绕的感觉，恐怕也不是总能体会到的，这样的时候，人就会觉得，啊，人生好温暖啊。</p>
+<p>真是神奇的快乐呢！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[如何成为一个合格的马屁精]]></title>
         <id>https://YifanChan.github.io/post/ru-he-cheng-wei-yi-ge-he-ge-de-ma-pi-jing/</id>
