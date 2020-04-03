@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YifanChan.github.io</id>
     <title>早安Café</title>
-    <updated>2020-04-02T08:58:35.132Z</updated>
+    <updated>2020-04-03T02:06:20.497Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YifanChan.github.io"/>
     <link rel="self" href="https://YifanChan.github.io/atom.xml"/>
@@ -12,6 +12,21 @@ Good Night 🌃</subtitle>
     <logo>https://YifanChan.github.io/images/avatar.png</logo>
     <icon>https://YifanChan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 早安Café</rights>
+    <entry>
+        <title type="html"><![CDATA[客至忐忑]]></title>
+        <id>https://YifanChan.github.io/post/ke-zhi-tan-te/</id>
+        <link href="https://YifanChan.github.io/post/ke-zhi-tan-te/">
+        </link>
+        <updated>2020-04-03T01:37:14.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，早上好🥛，这里是<strong>早安Café</strong>线上营业的第四天，现在是⏲北京时间上午9：35⛅️</p>
+<p>早上起床，洗漱，忙碌早餐，给猫铲屎，喂食，收拾房间，清扫，开窗通风，看书，写文。</p>
+<p>平静的一天伴随着好天气徐徐展开☀️。</p>
+<p>但是一种不安的情绪在屋子里隐隐起伏，母亲时不时地望向手机，或是早餐时交谈到一半突然打住，以为听到敲门的声音——今天有个小客人即将到来，一种坐立不安油然而生。</p>
+<p>这种情绪在因纽特人的文化中有个特别的名字：<strong>IKTSUARPOK（客至忐忑）</strong>。这种感觉的存在意味着他们会不自觉地起身扫视北极辽阔的平原，找寻逐渐接近中的雪橇。</p>
+<p>不安地反复滑动着手机屏幕，或是等待预期中对刚刚发出的朋友圈的点赞或评论，或许也是一种<em>客至忐忑</em>？发完消息后不停地打开社交软件查看对方是否查看或回复，可能是我们现代生活中最让人分心的事情之一。</p>
+<p>但是，也许不是科技的发展造成了这一切，而是在这个孤独的星球上，<strong>我们想与人接触的欲望</strong>。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“另一个我”]]></title>
         <id>https://YifanChan.github.io/post/ling-yi-ge-wo/</id>
