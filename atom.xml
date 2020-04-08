@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YifanChan.github.io</id>
     <title>早安Café</title>
-    <updated>2020-04-07T03:10:33.384Z</updated>
+    <updated>2020-04-08T07:49:27.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YifanChan.github.io"/>
     <link rel="self" href="https://YifanChan.github.io/atom.xml"/>
@@ -12,6 +12,24 @@ Good Night 🌃</subtitle>
     <logo>https://YifanChan.github.io/images/avatar.png</logo>
     <icon>https://YifanChan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 早安Café</rights>
+    <entry>
+        <title type="html"><![CDATA[如果治愈的力量有模样]]></title>
+        <id>https://YifanChan.github.io/post/ru-guo-zhi-yu-de-li-liang-you-mo-yang/</id>
+        <link href="https://YifanChan.github.io/post/ru-guo-zhi-yu-de-li-liang-you-mo-yang/">
+        </link>
+        <updated>2020-04-08T06:59:57.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，下午好☕️，这里是<strong>早安Café</strong>线上营业的第九天，现在是⏲北京时间下午3：40⛅️</p>
+<p>今天早起给爸妈做早饭了。</p>
+<p>第一次尝试做烤蛋奶法式吐司，淋上枫糖很不错。</p>
+<p>中午给自己做了牛肉咖喱饭，用到了逛超市新买的咖喱块。</p>
+<p>炖牛腩的时候好香，Eva一直在我脚边绕。</p>
+<p>很怀念上海日式小餐馆里的蔬菜甜汤，试着自己做了一下，味道不同，但意外的很开胃。</p>
+<p>下午约了xyj的学习局，在厨房里喝着手冲曼特宁一起上课。</p>
+<p>草莓很新鲜，草莓白玉卷的颜色有些好笑。</p>
+<p>想到前日和朋友们约咖啡厅露台，云淡风轻，dfz自顾轻轻弹着吉他。</p>
+<p>我想，如果治愈的力量有模样，那它一定只在一年中不多的日子现身，藏在最让你放松安宁的地方，等着你伸手过去，触碰到它柔软的尾巴。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[习惯即障碍]]></title>
         <id>https://YifanChan.github.io/post/xi-guan-ji-zhang-ai/</id>
