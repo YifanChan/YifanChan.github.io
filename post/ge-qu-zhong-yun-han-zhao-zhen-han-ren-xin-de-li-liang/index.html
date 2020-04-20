@@ -32,43 +32,9 @@ Good Night 🌃" />
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            Good Morning 🛫
-Good Evening 🤸‍♀️
-Good Night 🌃
+            文章目录
           </p>
-          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
-            
-              
-                <a href="https://github.com/YifanChan" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-github-line"></i>
-                </a>
-              
-            
-              
-            
-              
-            
-              
-                <a href="https://www.zhihu.com/people/irene-ice" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-zhihu-line"></i>
-                </a>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <a href="https://user.qzone.qq.com/1275019974" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-qq-line"></i>
-                </a>
-              
+          <div class="toc-container hidden lg:block">
             
           </div>
         </div>
@@ -113,41 +79,76 @@ Good Night 🌃
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="text-lg text-gray-700 mb-8">
-          <i class="ri-bookmark-line"></i> 无厘头
-        </h2>
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
+        <h1 class="text-3xl font-bold lg:mt-16">歌曲中蕴含着震撼人心的力量</h1>
+        <div class="text-sm text-gray-700 lg:my-8">
+          2020-04-20 / 1 min read
+        </div>
         
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
-    
-    <div class="content">
-      <a href="https://YifanChan.github.io/post/ge-qu-zhong-yun-han-zhao-zhen-han-ren-xin-de-li-liang/">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">歌曲中蕴含着震撼人心的力量</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
-        
-      </div>
-      <div class="text-gray-400 text-sm font-light">2020-04-20 / 1 min read</div>
-    </div>
-  </section>
+        <div class="post-content yue">
+          <p>亲爱的<strong>早安Café</strong>的老朋友们，上午好☕️，这里是<strong>早安Café</strong>线上营业的第21天，现在是⏲北京时间下午3：40⛅️</p>
+<p>🎼歌曲中蕴含着震撼人心的力量。</p>
+<p>💊对今日的期待谋划了今日的生活。</p>
+<p>🙈想象力决定了快乐的上限。</p>
+<p>👾我们最深的恐惧不是自己的不足，而是自己拥有无穷的力量。</p>
+<p>🏃如果碌碌无为，就无法服务世界。</p>
+<p>🌞我们不能退缩，要带给身边人温暖。</p>
 
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${1 * 0.2}s` }">
-    
-    <div class="content">
-      <a href="https://YifanChan.github.io/post/guan-yu-tou-fa/">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">关于头发</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
-        
-      </div>
-      <div class="text-gray-400 text-sm font-light">2020-04-17 / 2 min read</div>
-    </div>
-  </section>
+        </div>
 
-        <div class="pagination-container animated fadeIn">
-  
-  
-</div>
+        
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://YifanChan.github.io/tag/vww1SJbAq/">
+            <span class="flex-auto">无厘头</span>
+          </a>
+        
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://YifanChan.github.io/tag/L4EkCWq2_c/">
+            <span class="flex-auto">早安</span>
+          </a>
+        
+
+
+        <div class="flex justify-between py-8">
+          
+
+          
+            <div class="next-post">
+              <a href="https://YifanChan.github.io/post/guan-yu-tou-fa/">
+                <h3 class="post-title">
+                  关于头发
+                  <i class="ri-arrow-right-line"></i>
+                </h3>
+              </a>
+            </div>
+          
+        </div>
+
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: '560f96bc37ff8e0e5120',
+    clientSecret: '41b1e59ce0fc8525efc24a24503ffdae7420d478',
+    repo: 'YifanChan.github.io',
+    owner: 'YifanChan',
+    admin: ['YifanChan'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
+        
 
       </div>
     </div>
