@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YifanChan.github.io</id>
     <title>早安Café</title>
-    <updated>2020-07-07T23:23:48.789Z</updated>
+    <updated>2020-08-19T01:15:58.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YifanChan.github.io"/>
     <link rel="self" href="https://YifanChan.github.io/atom.xml"/>
@@ -12,6 +12,21 @@ Good Night 🌃</subtitle>
     <logo>https://YifanChan.github.io/images/avatar.png</logo>
     <icon>https://YifanChan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 早安Café</rights>
+    <entry>
+        <title type="html"><![CDATA[忧虑的代价]]></title>
+        <id>https://YifanChan.github.io/post/you-lu-de-dai-jie/</id>
+        <link href="https://YifanChan.github.io/post/you-lu-de-dai-jie/">
+        </link>
+        <updated>2020-08-19T00:33:40.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，上午好☕️，这里是<strong>早安Café</strong>线上营业的第142天，现在是⏲北京时间上午8：34⛅️。</p>
+<p>又是时隔很久再次开始写文章，最近在忙碌着自习室的创业项目，去了一趟北京，总是忙忙碌碌中，早起的习惯也有些难以保持，更没有动力写文，虽然确实有些想分享的灵感。</p>
+<p>我最近时常听到的一句话是“年轻真好哇”，很显然是来自稍微年长一些的人的感慨，也让我对自身的境遇有了进一步的积极理解。</p>
+<p>从前我们只盯着同龄人，很难因为所谓年龄的优势而感激珍惜，直到从那些望着我们充满怜惜和鼓励的年长一些的人那里获得一些这样的启发，才终于觉悟，眼睛仅仅盯着身边的人和事务会让我们陷入过于悲观的陷阱，并持续处于忧虑之中：<strong>自己所做的是否能得到周围的尊重或认可，能否给自己带来财富或社会地位，更重要的是，能否给自己带来社会的关注和爱。</strong></p>
+<p>这种忧虑偷偷渗透进我们的思想里，最终毁掉人的自信心和进取心。</p>
+<p>为何我们会忧虑？忧虑是犹豫不决引起的持续性恐惧。我们对死亡对贫穷对衰老和对失恋对批评的恐惧会通过犹豫不决转化为忧虑，并持续地在人群中传递。</p>
+<p>虽然说感慨年轻的人们可能也存在着对衰老的忧虑，并不是一个十分积极的评价。但如果我们能因此换一个角度审视自身的话，就会发现，并不是道路狭窄，只是我们常常只看到一条路而忽视了广阔的平原。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[写作的慰藉]]></title>
         <id>https://YifanChan.github.io/post/xie-zuo-de-wei-jie/</id>
@@ -238,18 +253,6 @@ Good Night 🌃</subtitle>
 <p>因为有友人和这些像友人般的爱好的陪伴，无情的外在世界短暂地屈服了，我们也得以逐渐看清让我们痛苦的内在情绪。</p>
 <p>当天空下起小雨，窝在和家一般温暖的地方，身旁有好友相伴。当我们终于可以畅快地长舒一口气，扔掉那些自我怀疑，说出那句:“是的，这就是我的感觉。”</p>
 <p>没有什么比这个更加感到抚慰了。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[想要活得正当]]></title>
-        <id>https://YifanChan.github.io/post/xiang-yao-huo-de-zheng-dang/</id>
-        <link href="https://YifanChan.github.io/post/xiang-yao-huo-de-zheng-dang/">
-        </link>
-        <updated>2020-04-22T10:26:39.000Z</updated>
-        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，晚上好☕️，这里是<strong>早安Café</strong>线上营业的第23天，现在是⏲北京时间下午18：26⛅️。</p>
-<p>突然感慨，想要活的很正当真是一件困难的事情。</p>
-<p>平时有想法的时候可能会没时间，有时间的时候可能精力不够；因为软弱而不得不去做一些事情，因为没有考虑清楚稀里糊涂地做了一些选择；想要改变时发现时机已过，再下决心时往往患得患失。时常因为愚笨而搞砸一些东西，偶尔太聪明了反而不能坚持，正直的时候会受伤害而委屈，怂的时候内心煎熬却无力反抗。常常自以为是后自作自受，自我放逐时自怜自哀，岁月静好时不知满足，死到临头前又追悔不已。</p>
-<p>每一个人都身处其中，身处这种摩登自我的生活方式之中，自以为统治着自己的世界。</p>
 ]]></content>
     </entry>
 </feed>
