@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://YifanChan.github.io</id>
     <title>早安Café</title>
-    <updated>2020-11-02T14:49:24.371Z</updated>
+    <updated>2020-11-03T15:37:36.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://YifanChan.github.io"/>
     <link rel="self" href="https://YifanChan.github.io/atom.xml"/>
@@ -12,6 +12,27 @@ Good Night 🌃</subtitle>
     <logo>https://YifanChan.github.io/images/avatar.png</logo>
     <icon>https://YifanChan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 早安Café</rights>
+    <entry>
+        <title type="html"><![CDATA[背着冰箱旅行的游牧民族]]></title>
+        <id>https://YifanChan.github.io/post/bei-zhao-bing-xiang-lu-xing-de-you-mu-min-zu/</id>
+        <link href="https://YifanChan.github.io/post/bei-zhao-bing-xiang-lu-xing-de-you-mu-min-zu/">
+        </link>
+        <updated>2020-11-03T15:07:11.000Z</updated>
+        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，早上好☕️，这里是<strong>早安Café</strong>线上营业的第219天，现在是⏲北京时间上午8：07⛅️。</p>
+<p>如果四处游走的蒙古包，终有一天遇到了Fridge这个小不点，是否也会心动不已，想要归入囊中？</p>
+<p>要做第一个背着冰箱赶路的游牧人吗？</p>
+<p>劲爽的冰汽水，不用担心放坏的牛羊肉，或是保持新鲜的蔬菜水果，某一个时刻，这种念头挠的人直心痒，幸福被描摹得如此具体生动仿佛就在眼前。</p>
+<p>真的要做第一个背着冰箱赶路的游牧人吗？</p>
+<p>想要自由，选择了最小众的前进路线，探索心中无垠的草原，可偶尔又贪恋那一丝的安稳与舒适，于是动了背上冰箱的心思——隔壁那族似乎早已搬去城里，常常捎来生活滋润的消息。</p>
+<p>什么时候也能拥有自己安定的居所盛下一个属于自己的冰箱呢？</p>
+<p>草原的景色逐渐在视野中模糊成边缘，日出日落重复着毫无生气的劳作，只有那台可以发出悦耳的嗡嗡声的机器才是唯一的救赎。</p>
+<p>去哪里买一个冰箱呢？</p>
+<p>下一个城镇还有三十天的脚程，早已错过了最好的时机；也曾与那旁族交往甚密，为何当时不曾打听消息迁往城里。</p>
+<p>我是可怜的没有冰箱的游牧人。</p>
+<p>直到路过的族人问起：</p>
+<p>“电冰箱哪来的电？”</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[不必深入]]></title>
         <id>https://YifanChan.github.io/post/bu-bi-shen-ru/</id>
@@ -146,19 +167,6 @@ Good Night 🌃</subtitle>
 <p>这种忧虑偷偷渗透进我们的思想里，最终毁掉人的自信心和进取心。</p>
 <p>为何我们会忧虑？忧虑是犹豫不决引起的持续性恐惧。我们对死亡对贫穷对衰老和对失恋对批评的恐惧会通过犹豫不决转化为忧虑，并持续地在人群中传递。</p>
 <p>虽然说感慨年轻的人们可能也存在着对衰老的忧虑，并不是一个十分积极的评价。但如果我们能因此换一个角度审视自身的话，就会发现，并不是道路狭窄，只是我们常常只看到一条路而忽视了广阔的平原。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写作的慰藉]]></title>
-        <id>https://YifanChan.github.io/post/xie-zuo-de-wei-jie/</id>
-        <link href="https://YifanChan.github.io/post/xie-zuo-de-wei-jie/">
-        </link>
-        <updated>2020-07-07T23:12:28.000Z</updated>
-        <content type="html"><![CDATA[<p>亲爱的<strong>早安Café</strong>的老朋友们，上午好☕️，今天是<strong>早安Café</strong>线上营业的第100天，现在是⏲北京时间上午7：02⛅️。</p>
-<p>100天过去了，这个blog并没有像我预想的那样做到日更，但是我对这个小小的隐形店铺依然感到满意和喜爱，也许这就是写作的慰藉吧。</p>
-<p>生活的际遇实在非常有趣，我相信我现在已经过上了自己想要的生活，并且我相信未来能够成为更好的自己。这样自信的状态和清醒的早晨在以前并不那样多，但以后也许会变得更多。</p>
-<p>一百天，也当作一个小小的纪念日吧😏——留下一句对这里特别的话：</p>
-<p><strong>当灵感闪现，欲望爆发的时候，重视它，在感受到它的刹那，立即做出回应。想象力会在这种坚持不懈的回应之中拓展它的边界，充盈你的生活。</strong></p>
 ]]></content>
     </entry>
 </feed>
